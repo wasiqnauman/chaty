@@ -17,10 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Chatapp',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-          // primaryColor: Colors.red,
-          // accentColor: Color(0xFFFEF9EB),
-          primaryColor: Color(0xff474787),
-          accentColor: Color(0xff706fd3)),
+          primaryColor: Color(0xff474787), accentColor: Color(0xff706fd3)),
       home: HomeScreen(),
     );
   }

@@ -1,4 +1,4 @@
-#Thu Jun 03 16:39:35 PKT 2021
+#Thu Jun 03 17:12:11 PKT 2021
 base.0=/Users/wasiq/Desktop/chatapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
