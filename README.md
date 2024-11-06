@@ -1,6 +1,6 @@
 # Chaty: Fullstack Cross-Platform Chat Application
 
-**A full-featured iOS/Android chat application leveraging Firebase's real-time database, cloud storage, and authentication services, built with Flutter.**
+**A full-stack, cross-platform, cloud-based, iOS/Android chat application leveraging Firebase's real-time database, cloud storage, and authentication services, built with Flutter.**
 
 Chaty is a powerful cross-platform messaging application designed with scalability and real-time performance in mind. This project showcases the integration of Firebase's comprehensive BaaS (Backend as a Service) solution with Flutter’s versatile UI framework, adhering to modern mobile development best practices.
 
